@@ -1,0 +1,2 @@
+# AnimeSubtitleManager
+ASM
